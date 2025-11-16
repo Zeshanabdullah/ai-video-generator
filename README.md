@@ -2,7 +2,7 @@
 
 ![AI Video Generator Banner](https://veoaifree.com/github/img_1763257522_2277.jpg)
 
-> Free AI Tool → [https://veoAI free.com/veo-video-generator/](https://veoAI free.com/veo-video-generator/)
+> Free AI Tool → [https://veoAI free.com/veo-video-generator/](https://veoaifree.com/veo-video-generator/)
 
 # Examples
 
